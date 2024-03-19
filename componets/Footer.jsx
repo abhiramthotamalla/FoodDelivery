@@ -9,9 +9,9 @@ export default function Footer(){
         <div className={css.container}>
             <span>ALL RIGHTS ARE RESERVED</span>
             <div className={css.social}>
-                <UilFacebook size={46}/>
-                <UilGithub size={46}/>
-                <UilInstagram size={46}/>
+                <UilFacebook size={45}/>
+                <UilGithub size={45}/>
+                <UilInstagram size={45}/>
             </div>
             <div className={css.logo}>
                 <Image src={Logo} alt="" width={50} height={50}/>
